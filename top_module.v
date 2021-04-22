@@ -1,4 +1,5 @@
 //***PHASE CORRELATION---- 2D_IFFT[(2D_FFT(Ref. Image)* X (2D_FFT(Shifted Image))]
+//***Simulation time = 0.512ms
 
 `timescale 1ns / 1ps
 
